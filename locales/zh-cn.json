@@ -1,0 +1,11 @@
+{
+    "jasonxu.position.name": "位置",
+    "jasonxu.position.description": "我在哪？",
+    "jasonxu.position.position.messageid": "位置",
+    "jasonxu.position.checkAble": "用户浏览器是否支持定位？",
+    "jasonxu.position.userAllow": "用户是否允许定位？",
+    "jasonxu.position.getAllow": "向用户申请定位权限[REASON]",
+    "jasonxu.position.getLat": "纬度",
+    "jasonxu.position.getLon": "经度",
+    "jasonxu.position.geolocation": "定位"
+}

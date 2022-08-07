@@ -1,0 +1,11 @@
+{
+    "jasonxu.position.name": "Position",
+    "jasonxu.position.description": "Where am I?",
+    "jasonxu.position.position.messageid": "Position",
+    "jasonxu.position.checkAble": "The browser support positioning?",
+    "jasonxu.position.userAllow": "User allowed to locate?",
+    "jasonxu.position.getAllow": "Apply for location permission [REASON]",
+    "jasonxu.position.getLat": "latitude",
+    "jasonxu.position.getLon": "longitude",
+    "jasonxu.position.geolocation": "geolocation"
+}
